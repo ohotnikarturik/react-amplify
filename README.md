@@ -1,3 +1,13 @@
+### AWS Amplify  :
+- Auth: AWS Cognito
+- Api: AWS AppSync, GraphQL API
+- Analytics: AWS Pinpoint
+- Storage: AWS S3
+- AWS DynamoDB
+- AWS IAM
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
